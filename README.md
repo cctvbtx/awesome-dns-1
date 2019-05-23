@@ -19,7 +19,8 @@
 
 ## RFCs
 
-[DNS Protocol Related Documents](http://www.faqs.org/rfcs/dns-rfcs.html)
+- [FAQS.org](http://www.faqs.org/rfcs/dns-rfcs.html)
+- [ISC.org](https://www.isc.org/community/rfcs/dns/)
 
 ## Servers
 
